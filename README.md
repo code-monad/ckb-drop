@@ -2,6 +2,8 @@
 
 A tiny agent shows how to program an Airdrop agent using CKB's Rust sdk.
 
+It will randomly pick a image fomr [./res/] to make it a Spore and send to the receiver.
+
 ## Procedure
 
 Just like other ckb development ,the procedure of this program can be described as:
